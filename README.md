@@ -1,9 +1,9 @@
 # product_preview
 
-##Desktop
+## Desktop
 ![](end%20result/Screenshot%202022-07-08%20171710.png)
 
-##Mobile
+## Mobile
 ![](end%20result/Screenshot%202022-07-11%20142646.png)
 
 
